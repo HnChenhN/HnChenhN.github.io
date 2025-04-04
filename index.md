@@ -26,7 +26,7 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 - Advancing knowledge in program analysis.
 
 ## 📫 Contact
-- SiegerNan@gmail.com
+- SiegerNan[a.t]gmail.com
 
 
 
