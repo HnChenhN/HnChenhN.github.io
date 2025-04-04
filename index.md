@@ -10,11 +10,24 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 
 ## About Me
 
-- 🎓 Education: Bachelor's degree in Computer Science from Harbin Institute of Technology. Master's degree in Computer Science from Nanjing University.
-- 💼 Work/Research Experience: During my undergraduate studies, I did some research related to program analysis. Specifically using abstract syntax trees to predicte function names. During my masters' studies, I worked on software testing, specifically combinatorial testing. Currently I am an software engineer at a mobile phone company, responsible for linux kernel fault localization.
-- 🔍 Research Interests: **systems, programming languages, abstract interpretation**
-- 🌱 Currently Learning: I am learning something about program analysis.
-- 📫 Contact: SiegerNan@gmail.com
+## 🎓 Education
+- Bachelor’s in Computer Science, Harbin Institute of Technology  
+- Master’s in Computer Science, Nanjing University
+
+## 💼 Experience
+- **Undergraduate Research:** Investigated program analysis using abstract syntax trees to predict function names.  
+- **Master’s Research:** Focused on combinatorial software testing.  
+- **Current Role:** Software Engineer at a leading mobile phone company, specializing in Linux kernel fault localization.
+
+## 🔍 Research Interests
+- Systems, Programming Languages, Abstract Interpretation
+
+## 🌱 Currently Learning
+- Advancing knowledge in program analysis.
+
+## 📫 Contact
+- SiegerNan@gmail.com
+
 
 
 ## Others
