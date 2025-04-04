@@ -11,13 +11,13 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 ## About Me
 
 ## 🎓 Education
-- Bachelor’s in Computer Science, Harbin Institute of Technology  
-- Master’s in Computer Science, Nanjing University
+- Bachelor’s in Computer Science, **Harbin Institute of Technology**  
+- Master’s in Computer Science, **Nanjing University**
 
 ## 💼 Experience
-- **Undergraduate Research:** Investigated program analysis using abstract syntax trees to predict function names.  
+- **Undergraduate Research:** Conducted a study on program analysis using abstract syntax tree to predict function names.
 - **Master’s Research:** Focused on combinatorial software testing.  
-- **Current Role:** Software Engineer at a leading mobile phone company, specializing in Linux kernel fault localization.
+- **Current Role:** Software Engineer at a mobile phone company, specializing in Linux kernel fault localization.
 
 ## 🔍 Research Interests
 - Systems, Programming Languages, Abstract Interpretation
