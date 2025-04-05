@@ -1,28 +1,26 @@
 <!DOCTYPE html>
-<html lang="zh">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-  </header>
-
-  <div class="container">
-    <div class="sidebar">
-      <ul>
-        <li><a href="{{ site.baseurl }}/index.md">首页</a></li>
-        <li><a href="{{ site.baseurl }}/my_interests.md">关于我</a></li>
-        <li><a href="{{ site.baseurl }}/my_profession.md">联系方式</a></li>
-      </ul>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <h3>Side Navigation</h3>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/my_interests/">About</a></li>
+          <li><a href="/my_profession/">Projects</a></li>
+        </ul>
+      </div>
+      <div class="content">
+        <main>
+          {{ content }}
+        </main>
+      </div>
     </div>
-    <div class="content">
-      {{ content }}
-    </div>
-  </div>
-</body>
+  </body>
 </html>
