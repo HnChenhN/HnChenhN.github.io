@@ -1,1 +1,8 @@
-theme: minima
+# _config.yml
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+nav:
+  - Home: index.md
+  - Page 1: my_work.md
+  - Page 2: my_interest.md

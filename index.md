@@ -6,7 +6,7 @@ theme: minima  # You can change this to other GitHub Pages supported themes
 
 # Welcome to My Homepage 👋
 
-I am **Hongnan Chen**, a humanity passionate about **learning**.
+I am Hongnan Chen, a humanity passionate about learning .
 
 ## About Me
 
@@ -16,7 +16,7 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 
 ## 💼 Experience
 - **Undergraduate Research:** Conducted a study on program analysis using abstract syntax tree to predict function names.
-- **Master’s Research:** Focused on combinatorial software testing.  
+- **Master’s Research:** Focused on combinatorial software testing. I propose 
 - **Current Role:** Software Engineer at a mobile phone company, specializing in Linux kernel fault localization.
 
 ## 🔍 Research Interests
@@ -24,6 +24,8 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 
 ## 🌱 Currently Learning
 - Advancing knowledge in program analysis.
+- French.
+
 
 ## 📫 Contact
 - SiegerNan[a.t]gmail.com
@@ -32,7 +34,12 @@ I am **Hongnan Chen**, a humanity passionate about **learning**.
 
 ## Others
 
-Feel free to share your hobbies, interests, or anything else you’d like people to know about you 😃.
+My 16-personality type is probobly INTJ(Ni-Fi), as told by my friend. He is a specialist in MBTI 😀.
+
+J'adore le France, even thought I have never been there 😊. I really want to have a oppotunity to experience life there.
+During the period between the end of my master's thesis defense and my graduation, I explored materials related to psychology, including movies and books. One of the books I read was *Social Psychology* by *Elliot Aronson*. I also read several novels  by Austrian author *Arthur Schnitzler*. I enjoyed analysising the psychological states of the characters in these works and trying to understand their thoughts and behaviors, which I found very intersting.
+I like some French films that are related to human nature. They make me think a lot.
+I like some French actress such as Sophie Marceau, Isabelle Huppert and Eva Green. Beside being good locking, 
 
 ---
 
