@@ -1,7 +1,7 @@
 ---
 title: About my profession
 description: A humanity
-theme: minima  # You can change this to other GitHub Pages supported themes
+theme: jekyll-theme-cayman  # You can change this to other GitHub Pages supported themes
 ---
 
 Our company's products are based on Qualcomm's Snapdragon chip.

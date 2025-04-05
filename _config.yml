@@ -1,4 +1,4 @@
 title: My GitHub Page
 description: My personal website
 url: "https://hnchenhn.github.io/" # 替换为你的 GitHub 用户名
-theme: minina
+theme: jekyll-theme-cayman
