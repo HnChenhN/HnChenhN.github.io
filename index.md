@@ -20,7 +20,7 @@ I am Hongnan Chen, a humanity passionate about learning.
 - **Current Role:** Software Engineer at a mobile phone company, specializing in Linux kernel fault localization.
 
 ## 🔍 Research Interests
-- Systems, Programming Languages, Abstract Interpretation
+- Operating System, Program Analysis, Abstract Interpretation
 
 ## 🌱 Currently Learning
 - Advancing knowledge in program analysis.
@@ -36,8 +36,11 @@ I am Hongnan Chen, a humanity passionate about learning.
 
 My 16-personality type is probobly INTJ(Ni-Fi), as told by my friend. He is a specialist in MBTI 😀.
 
-J'adore le France, even thought I have never been there 😊. I really want to have a oppotunity to experience life there.
-During the period between the end of my master's thesis defense and my graduation, I explored materials related to psychology, including movies and books. One of the books I read was *Social Psychology* by *Elliot Aronson*. I also read several novels  by Austrian author *Arthur Schnitzler*. I enjoyed analysising the psychological states of the characters in these works and trying to understand their thoughts and behaviors, which I found very intersting.
+J'adore le France, even thought I have never been there 😊. I really want to have an opportunity to experience life there.
+During the period between the end of my master's thesis defense and graduation, I explored materials related to psychology, including movies and books.
+One of the books I read was *Social Psychology* by *Elliot Aronson*.
+I also read several novels by the Austrian author *Arthur Schnitzler*.
+I enjoyed analyzing the psychological states of the characters in these works and trying to understand their thoughts and behaviors, which I found very fascinating.
 I like some French films that are related to human nature. They make me think a lot.
 I like some French actress such as Sophie Marceau, Isabelle Huppert and Eva Green. Beside being good locking, 
 

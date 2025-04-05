@@ -29,3 +29,18 @@ I have a board range of interests and have so many insights in many fields.
  Take the MBTI, proposed by the psychologist *Carl Gustav Jung (/kɑːrl ˈɡʊstɑːv jʊŋ/)*, which includes a dimension that reflects a person's level of introversion.
  When someone is more introveted, they are typically categorized as *I*, while the more extroveted are labeled as *E*.
  I belive most introverts may prefer music in minor keys, but this conclusion is purely based on my intuition, and I don't have any concrete evidence to support it.
+
+
+ ## Game (video game)
+
+- I really loved playing games until several months ago.
+ I started playing games before I went to kindergarten.
+ Back then, all the games were displayed in pixels.
+ If my memory serves me right, the first game I played was called *Bomber Man World*.
+ Before I went to university, my parents always limited my game time.
+ I have been attending boarding school since first grade, and I could only stay at home for two days a week.
+ So, I could only play video games on those two days.
+ Even then, my parents only allowed me to play games for one hour a day.
+ As a result, my desire to play games was never fully satisfied.
+ This made my mind constantly preoccupied with games, and I had no intention of studying.
+ 
