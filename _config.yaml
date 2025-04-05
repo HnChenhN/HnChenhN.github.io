@@ -4,10 +4,9 @@ baseurl: "" # GitHub Pages doesn't require a baseurl for personal repos
 url: "https://hnchenhn.github.io/" # 替换为你的 GitHub 用户名
 
 theme: "jekyll-theme-cayman"  # 或者其他你使用的主题
-sidebar:
-  - title: "首页"
-    url: "/index"
-  - title: "interests"
-    url: "/my_interests"
-  - title: "Profession"
-    url: "/my_profession"
+
+
+nav:
+  - Home: index.md
+  - Page 1: my_interests.md
+  - Page 2: my_profession.md
