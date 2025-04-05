@@ -6,7 +6,7 @@ theme: minima  # You can change this to other GitHub Pages supported themes
 
 # Welcome to My Homepage 👋
 
-I am Hongnan Chen, a humanity passionate about learning .
+I am Hongnan Chen, a humanity passionate about learning.
 
 ## About Me
 

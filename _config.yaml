@@ -3,14 +3,11 @@ description: My personal website
 baseurl: "" # GitHub Pages doesn't require a baseurl for personal repos
 url: "https://hnchenhn.github.io/" # 替换为你的 GitHub 用户名
 
-# 设置侧边栏菜单
-navbar:
-  - title: Home
-    url: /home.md # 首页
-  - title: Interests
-    url: /my_interests.md # 其他页面1
-  - title: Profession
-    url: /my_profession.md # 其他页面2
-
-# 其他配置
-theme: jekyll-theme-cayman # 选择合适的主题
+theme_config:
+  sidebar:
+    - title: "首页"
+      url: "/home"
+    - title: "interests"
+      url: "/my_interests"
+    - title: "Profession"
+      url: "/my_profession"
