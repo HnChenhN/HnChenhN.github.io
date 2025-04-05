@@ -12,6 +12,6 @@ theme:
 
 
 nav:
-  - Home: index.md
-  - Page 1: my_interests.md
-  - Page 2: my_profession.md
+  - Home: /index.md
+  - Page 1: /my_interests.md
+  - Page 2: /my_profession.md
